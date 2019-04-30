@@ -17,6 +17,7 @@ savings: false;
 var moneyForMonth = money/30;
 
 alert(moneyForMonth);
+ale
 
 
 
